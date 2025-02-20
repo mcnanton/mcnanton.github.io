@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2024-01-06-posit-conf-2023/index.html",
+      "/posts/2023-08-14-khipu-2023/index.html"
+    ]
+  },
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/rladies-na-pasa-nada/index.html",
+      "/talks/rladies-r-en-red/index.html",
+      "/talks/latinr-2024-recupero-gastos/index.html",
+      "/talks/open-science-universidad-andes/index.html",
+      "/talks/alta-ca-2024/index.html",
+      "/talks/jis-2024-datasets-ia/index.html",
+      "/talks/latinr-2023-translaton/index.html",
+      "/talks/latinr-2022-deteccion-embarazos/index.html",
+      "/talks/foss4g-covid-2021/index.html",
+      "/talks/rladies-como-empezaR/index.html",
+      "/talks/jis-2020-workshop/index.html",
+      "/talks/women-bioinformatics-2020/index.html",
+      "/talks/rladies-datos-textuales/index.html"
+    ]
+  }
+]
