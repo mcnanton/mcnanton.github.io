@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "María Nanton"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts.qmd
+        text: Posts
+      - href: talks.qmd
+        text: Talks/workshops
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/mcnanton/
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/
+      - icon: twitter
+        href: https://twitter.com/bynans1/
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0003-0426-2879
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

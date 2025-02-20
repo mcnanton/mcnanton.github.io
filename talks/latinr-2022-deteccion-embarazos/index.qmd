@@ -1,0 +1,13 @@
+---
+authors: [María Nanton]
+date: "2022-11-10"
+title: Data Science with R for Public Health Impact. A Tidyverse Experience in Pregnancy Detection (LatinR 2022)
+image: latinr-embarazos-2022.PNG
+---
+
+Together with Sabrina Laura López, Carolina Mengoni Goñalons and Manuel Rodríguez Tablado we presented "Experiences in Using R for Automating Administrative Procedures: Cost Recovery in the Public Health System of the City of Buenos Aires."
+
+In our talk, we shared our experience as part of the Information Management and Health Statistics Office of the Ministry of Health of the City of Buenos Aires, where we designed and implemented a project to estimate pregnancy data information from Electronic Health Records.
+
+- Link to our [presentation](https://mcnanton.github.io/presentacion_latinr_deteccion_embarazos/presentacion_latinR_2021.html#1)
+- Visit our talk's [materials](https://github.com/mcnanton/presentacion_latinr_deteccion_embarazos)

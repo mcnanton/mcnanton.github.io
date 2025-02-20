@@ -1,0 +1,15 @@
+---
+authors: [María Nanton]
+date: "2024-06-20"
+title: ALTa Ciencia Abierta (Latin America Transforms to Open Science)
+image: alta.jpg
+---
+
+The ALTa Ciencia Abierta course is designed to provide a comprehensive introduction to open science practices, focusing on key topics like reproducible research, open data, and collaborative workflows, for Spanish-speaking communities. It aims to equip researchers with the tools and knowledge to make their work more transparent, accessible, and reproducible.
+
+During 2024, I had the pleasure of teaching the module on **open tools** in the three editions of the course, alongside [Mariela Rajngewerc](https://www.metadocencia.org/authors/mrajngewerc/). In this module, we explored tools for working openly with datasets, code and papers, ensuring that research processes remain open, reproducible, and easy for others to follow.
+
+This course is part of a broader initiative supported by NASA - NASA TOPS - which promotes open science and collaboration across the global research community. MetaDocencia’s participation in this initiative is a significant step towards fostering a more inclusive and transparent scientific community, ensuring that research is accessible and reproducible for everyone, regardless of location or resources.
+
+- Link to the [website](https://www.metadocencia.org/en/proyecto/nasa-spanish/)
+- Link to the [Open Code module](https://zenodo.org/records/14047967)

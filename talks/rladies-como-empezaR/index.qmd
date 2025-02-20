@@ -1,0 +1,23 @@
+---
+authors: [María Nanton]
+date: "2021-09-22"
+title: From Social Sciences to Data Science
+image: como-empezar.png
+---
+
+From RLadies Buenos Aires along with the [Social Innovation Hub (NIS)](https://www.linkedin.com/company/nucleois/?originalSubdomain=ar) we organized this talk with four graduates from Social Sciences-related fields who work in data science.
+
+The speakers were:
+
+-   Andrea Gómez Vargas (@me_andre) - Sociologist
+
+-   Pedro Orden (@pedroorden) - Sociologist, researcher, and data scientist
+
+-   Ramiro Fernández (@ramaol) - Sociologist and data scientist
+
+-   María Cristina Nanton (@bynans1) - Social communicator and data analyst
+
+Each of us shared our firsthand experience on how we started in these roles, the obstacles we faced, the challenges we overcame, and the tools we found valuable both for our own development and for other graduates looking to enter the field of data science.
+
+-   Link to the meetup's [recording](https://www.youtube.com/watch?v=isoSCXA2gqo)
+-   Link to my presentation\](https://docs.google.com/presentation/d/1Bo-gmIdnNfRN28_iUDZwvtf0CLP-FdDhJnuhhUNHrw8/edit?usp=sharing)

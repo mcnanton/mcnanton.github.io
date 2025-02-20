@@ -1,0 +1,24 @@
+---
+authors: [María Nanton]
+date: "2020-06-02"
+title: Workshop - Visualizing Text Data
+image: caratula.png
+links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/allison_horst
+    - icon: github
+      text: Github
+      href: https://github.com/allisonhorst/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/allison-horst-16a885158/
+---
+
+Over 60 people joined R-Ladies Buenos Aires' workshop where I taught how to visualize text data.
+In the workshop, we went over common steps in text data analysis and created visualizations using the ggplot2 and wordcloud2 libraries using a corpus of poems by the Chilean poet [Gabriela Mistral](https://en.wikipedia.org/wiki/Gabriela_Mistral).
+
+We planned the workshop as a part of "30 Days of Graphics" a virtual event promoted by @R4DS_es, held on Twitter to commemorate the birth of Florence Nightingale, a pioneer in data visualization.
+
+- Watch the meetup's [recording](https://www.youtube.com/watch?v=WXp1T9JEIRM)
+- Access the workshop's [repository](https://github.com/mcnanton/RladiesBA-TallerDatosTextuales)

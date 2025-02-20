@@ -1,0 +1,8 @@
+---
+title: "Talks, Workshops, and Courses"
+listing:
+  contents: talks
+  sort: "date desc"
+  type: grid
+title-block-banner: true
+---

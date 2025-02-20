@@ -1,0 +1,11 @@
+---
+authors: [María Nanton]
+date: "2023-10-19"
+title: Become a R Contributor. Adding translations to base R (LatinR 2023)
+image: equipo-traducciones-latinr-2023.jpg
+---
+
+In our talk “Become an R Contributor: Contributing translations to R base” with Paola Corrales we presented the process of adding translations to R base via weblate. 
+We introduced attendees to how the [R Contributing working group](https://contributor.r-project.org/working-group) works and guided the participants on [how to make their first R translation contribution to the language](https://contributor.r-project.org/rdevguide/chapters/message_translations.html#how-to-contribute-new-translations).
+
+- Link to our [presentation](https://mcnanton.github.io/latinr_2023_translating_R/presentacion.html)

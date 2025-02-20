@@ -1,0 +1,33 @@
+---
+title: "Posit::Conf(2023)"
+author: "María Nanton"
+date: "2024-01-06"
+slug: posit-conf-2023
+categories:
+  - Conference
+  - R
+  - Open-source
+tags:
+  - R
+  - Conference
+  - Open-source
+description: ""
+type: post
+---
+
+## Hi, Posit::conf(2024)!
+
+
+## Why I Attended
+
+
+## Application
+
+## Workshops and events
+
+
+## R-Ladies at posit::conf()
+
+
+## Some great posts abput the conference
+

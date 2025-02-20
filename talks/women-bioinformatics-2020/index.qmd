@@ -1,0 +1,14 @@
+---
+authors: [María Nanton]
+date: "2020-09-24"
+title: Introduction to Tidyverse (Women in Bioinformatics and Data Science)
+image: intro-tidyverse.PNG
+---
+
+In this tutorial, along with Jimena Saucedo we gave an introduction to the use of R and of Tidyverse for data manipulation with dplyr and visualization with ggplot2. 
+This tutorial was part of the [1st Congress of Women in Bioinformatics and Data Science Latin America]https://wbds.la/conferences/1WBDSLAC/index.html).
+
+In our talk, I shared my experience with these events:
+
+- Link to our [presentation](https://docs.google.com/presentation/d/1SLjtSRAWZYtE92zq-JUvdm0ooaZ9_CMW524N82gvGu8/edit?usp=sharing)
+- View the workshop's [recording](https://www.youtube.com/watch?v=ycudMihLues&ab_channel=RLadiesBuenosAires)

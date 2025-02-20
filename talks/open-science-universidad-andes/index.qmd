@@ -1,0 +1,14 @@
+---
+authors: [María Nanton]
+date: "2024-11-19"
+title: Open Science 101 at University of the Andes
+image: universidad-andes.png
+---
+
+Sabrina López, José Luis Villca Villegas, and I, María Nanton, shared MetaDocencia’s work virtually at the University of Los Andes in Colombia. This was the first of a two-part virtual series on Open Science and NASA’s TOPS program in collaboration with the [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/).
+
+![](images/webinar.png)
+
+We shared our experience studying and contextualizing the materials for our virtual cohorts and walked through the syllabus of our ALTa Ciencia Abierta training. There was great interest from the audience, and we received many questions about how to join future editions.
+
+-   Link to our [presentation](https://doi.org/10.5281/zenodo.14223665)

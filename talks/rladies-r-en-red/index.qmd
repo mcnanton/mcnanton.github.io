@@ -1,0 +1,19 @@
+---
+authors: [María Nanton]
+date: "2024-12-20"
+title: R in a Network (R en Red)
+image: r-red.jpg
+---
+
+In this meetup co-organized between [R en Buenos Aires](https://renbaires.github.io/) and RLadies Buenos Aires we shared with attendees different ways to get involved in the R user community by developing packages, participating in events and conferences, or contributing to the R language itself.
+
+In our talk, I shared my experience with these events:
+
+- [posit::conf()](https://posit.co/conference/) conference
+- [R sprint 2023](https://contributor.r-project.org/r-project-sprint-2023/), an in-person intensive sprint for contributing to base R
+- [Khipu](https://khipu.ai/), Latin American Meeting in Artificial Intelligence
+- [latinR](https://latinr.org/) conference
+
+The main goal was to share what kind of work takes place at these events, what and how knowledge is exchanged, how we found out about them, and how to participate, aiming to show attendees that these opportunities are accessible for people in Latin America and very much worth exploring.
+
+- Link to our [presentation](https://rladies-ba.github.io/2024-12-20-oportunidades/#/section)

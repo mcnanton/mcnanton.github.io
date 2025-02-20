@@ -1,0 +1,14 @@
+---
+authors: [María Nanton]
+date: "2023-11-03"
+title: Challenges and Strategies in Creating Healthcare Datasets for Artificial Intelligence
+image: jis2024-2.PNG
+---
+
+I participated in the panel "Challenges and Strategies in Creating Healthcare Datasets for Artificial Intelligence Tools". [Santiago Esteban](https://www.linkedin.com/in/santiago-esteban/), MD, MPH, MBA, a member of [CIIPS - Center for Implementation and Innovation in Health Policies](https://www.linkedin.com/company/ciips/) moderated the panel with the participation of experts in the field.
+
+The topics in the panel included ethical data acquisition, curation and cleaning and also modern techniques for data labeling and annotation, as well as best-practices for managing healthcare datasets projects.
+
+![](images/jis2024-1.PNG){fig-align="center"}
+
+-   [Download](https://www.hospitalitaliano.org.ar/hiba/es/news/libro-de-resumenes-xviii-jornadas-universitarias-de-informatica-en-salud-departamento-de) the JIS Summit 2023 summaries in PDF.

@@ -1,0 +1,12 @@
+---
+authors: [María Nanton]
+date: "2020-11-04"
+title: Workshop - Data-Informed Decision Making. The Role of Data Science in Health
+image: workshop-jis.PNG
+---
+
+We developed and delivered an introductory workshop to Data Science for physicians and decision-makers as part of the **Health Informatics Conferece** organized by the [Health Informatics Department](https://www.linkedin.com/in/informaticaensalud/) of the Italian Hospital of Buenos Aires.
+
+The goal of the workshop was to conduct a collaborative exercise within the framework of evidence-based decision-making, focusing on the dimensions and stages involved in the process of access, use, and interpretation of data.
+
+- Link to our [presentation](https://docs.google.com/presentation/d/1LjtQMByrgsvdzskrkTJaC8-MobbHZ3k-DNPQdb6qklE/)

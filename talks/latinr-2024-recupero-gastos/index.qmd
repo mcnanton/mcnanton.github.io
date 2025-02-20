@@ -1,0 +1,13 @@
+---
+authors: [María Nanton]
+date: "2024-11-20"
+title: Using R for Automating Administrative Procedures (LatinR 2024)
+image: latinr-recupero-2024.PNG
+---
+
+For LatinR 2024, together with Ariana Bardauil and Manuel Rodríguez Tablado, we presented "Experiences in Using R for Automating Administrative Procedures: Cost Recovery in the Public Health System of the City of Buenos Aires."
+
+In our talk, we shared our experience as part of the Information Management and Health Statistics Office of the Ministry of Health of the City of Buenos Aires, where we designed and implemented a project to automate administrative records for expenses recovery in the public health system.
+
+- Link to our [presentation](https://mcnanton.github.io/presentacion_latinr_recupero_de_gastos/presentacion_latinR_2024.html)
+- Read our article [here](https://github.com/mcnanton/presentacion_latinr_recupero_de_gastos/blob/main/paper/latinr_recupero_de_gastos.pdf)
