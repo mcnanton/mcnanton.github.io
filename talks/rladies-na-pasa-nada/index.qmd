@@ -1,11 +1,15 @@
 ---
 authors: [María Nanton]
 date: "2025-02-19"
-title: NA worries! Learn to validate data with R
+title: Workshop - NA worries! Learn to validate data with R
 image: validacion-datos.jpg
 ---
 
-In this session, we explored some of the best tools for validating tabular data in R. Along with Betsy Cohen we went over the pointblank, data.validator, assertr, and validate libraries, demonstrating how they can help assess data integrity, accuracy, completness and consistency quickly and efficiently.
+In this session, we explored some of the best tools for validating tabular data in R.
+
+![](images/na-pasa-nada.PNG){fig-align="center" width="600"}
+
+Along with Betsy Cohen we went over the **pointblank**, **data.validator**, **assertr**, and **validate** libraries, demonstrating how they can help assess data *integrity*, *accuracy*, *completness* and *consistency* quickly and efficiently.
 
 -   Link to the workshop's [website](https://mcnanton.github.io/RladiesBA-TallerValidacionDatos/)
 -   Watch the meetup's recording [here](https://www.youtube.com/@RLadiesBuenosAires)

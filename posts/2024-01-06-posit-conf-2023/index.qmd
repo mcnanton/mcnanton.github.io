@@ -15,19 +15,40 @@ description: ""
 type: post
 ---
 
-## Hi, Posit::conf(2024)!
+## Hi, Posit::conf(2023)!
 
+I had the amazing opportunity to participate in posit::conf() 2023 in Chicago, where I met many R contributors, developers, and educators in person and was able to attend incredible talks and workshops that expanded my knowledge of the R ecosystem and the communities and working groups surrounding it.
 
 ## Why I Attended
 
+I always accessed the conference's contents virtually and asynchronously when attendees and speakers shared materials about the talks and workshops taking place. I applied with the hope of experiencing the conference firsthand, learning about the latest developments in R, tidyverse, and Shiny, and connecting with others—particularly data scientists working with health data, as well as organizers and participants of RLadies from around the world.
 
 ## Application
 
-## Workshops and events
+If you're interested in attending this conference as an Opportunity Scholar, it's important to know that the application process is very friendly and straightforward. The conference's organizers publish a Google Form between February and March (the conference is usually in September), where you can share your projects, any outreach or community-building work you do around the R ecosystem, and why you're interested in attending the conference.
 
+When I applied, I shared my GitHub username, my LinkedIn profile, and the GitHub profile of R-Ladies Buenos Aires, the organization I've been part of since 2019. I also included examples of talks I had given at conferences where R was a central or significant part of the project, as well as R-based projects from my public GitHub profile.
+
+## Some highlights
+
+### Workshops
+
+I attended the workshops "[Advanced Tidymodels](https://workshops.tidymodels.org/)" (taught by Max Kuhn) and "[Deploy and maintain models with vetiver](https://posit-conf-2023.github.io/vetiver/)" (taught by Julia Silge and Isabel Zimmerman). I learned a lot, not only from the two workshops and their incredible instructors but also from how to design a workshop of this type, where, within a short timeframe, we went through a highly productive learning journey. I particularly enjoyed the tidymodels workshop, a tool I have been using for years in my studies and work. The workshop allowed me to deepen and structure many of the knowledge I had already acquired, solidly add new content, and gain a deeper understanding of the philosophy and direction of this ecosystem's development.
+
+### Talks
+
+I took away something valuable from each talk at the conference, but the following ones were of particular interest to me:
+
+-   Mo Athanasia Mowinckel: "[Taking Your R Package Development to New Frontiers with R-Universe](https://www.youtube.com/watch?v=XDiyAvpo2uk&ab_channel=PositPBC)"
+-   Ben Arancibia: “[The Need For Speed - AccelerateR-ing R Adoption in GSK](https://www.youtube.com/watch?v=VDu2qdpYko8)”
+-   Liz Roten: “[The ‘I’ in Team. Peer-to-peer best practices for growing data science teams](https://www.lizroten.com/slides/positconf23/slides#/title-slide)”
+-   Jeremy Howard: “[A Hackers’ Guide to Language Models](https://github.com/fastai/lm-hackers)”
+-   Brendan Broderick: “[Using R to develop production modeling workflows at Mayo Clinic](https://www.youtube.com/watch?v=YwDdL_O7wSs&feature=youtu.be)”
 
 ## R-Ladies at posit::conf()
 
+![](images/posit-conf.jpg){fig-align="center"}
 
-## Some great posts abput the conference
+R-Ladies Global and R-Ladies Chicago jointly hosted a reception the last day of the conference, with a panel discusion. The panel included Athanasia Mowinckel, Yanina Bellini Saibene, and Riva Quiroga from the leadership team as well as R-Ladies chapter organizers Stephanie Orellana (R-Ladies Santiago), Angela Li (R-Ladies Chicago) and myself.
 
+Visit the excellent [blog post in R-Ladies](https://rladies.org/news/2023-10-09-positconf-chicago-meetup/) site to read more about this event.

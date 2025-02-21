@@ -1,0 +1,26 @@
+---
+title: "Gender biases and hate speech: : Promoters and targets in the Argentinean political context (PLoS ONE)"
+author: "María Nanton"
+date: "2024-01-06"
+slug: politicians-hate-speech
+categories:
+  - Publications
+  - NLP
+tags:
+  - Publications
+  - NLP
+description: ""
+type: post
+---
+
+## Our publication
+
+Our research explores how hate speech is disseminated and received by political figures, focusing on gender and political orientation. We used NLP and LLMs to analyze this discourse on Twitter. 
+
+[Access our publication in PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317001)
+
+![](images/journal.pone.0317001.g003.PNG){fig-align="center"}
+
+## Abstract
+
+Hate speech found in social media a place to flourish. In the Argentinean context, new right-wing parties have disrupted the political arena, winning the elections of 2023. Many of these new right-wing figures grew in popularity due to their use of social media, on a background of increasing political violence. In this article, we use quantitative and qualitative tools to investigate the prevalence of hate speech targeting women politicians and analyze the role of different political affiliations in promoting such discourse. Furthermore, we propose a model that predicts users’ political alignments based on their profile descriptions, allowing us to explore the distribution of hate speech among different political orientations. Our results provide a descriptive account of the relationship between hate speech by politicians and other users and shows that right-wing political figures and supporters are strong emissors of hate speech, while women, especially those from the left-wing are more prone to receive violent content.

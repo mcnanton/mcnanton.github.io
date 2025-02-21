@@ -1,7 +1,7 @@
 ---
 authors: [María Nanton]
 date: "2023-11-03"
-title: Challenges and Strategies in Creating Healthcare Datasets for Artificial Intelligence
+title: Panel - Challenges and Strategies in Creating Healthcare Datasets for AI (JIS Summit 2023)
 image: jis2024-2.PNG
 ---
 

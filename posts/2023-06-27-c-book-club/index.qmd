@@ -1,0 +1,29 @@
+---
+title: "C Book Club for R Contributors"
+author: "María Nanton"
+date: "2023-08-08"
+slug: c-book-club-2023
+categories:
+  - Programming
+  - Open-source
+  - R
+tags:
+  - Programming
+  - Open-source
+  - R
+description: ""
+type: post
+---
+
+## About
+
+From May to August 2023 as people attending R Project Sprint 2023 we were offered the chance to participate in a C book club with the goal of gaining a basic understanding of C and how it interfaces with R.
+
+Access the book club's materials in [this repository](https://github.com/r-devel/c-book-club).
+
+## My presentation
+
+I loved the book club, how it was organized, and how easy was to participate, even though the book itself, [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) by Jens Gustedt, was very challenging to follow. I led the session 4's discussion with [a presentation](https://mcnanton.quarto.pub/c-book-club-for-r-contributors/#/title-slide=) on C library functions, style, organization & documentation.
+
+![](images/Gustedt-ModernC-HI.jpg){fig-align="center" width="300"}
+
