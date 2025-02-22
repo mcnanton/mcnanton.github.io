@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "cv.html#selected-work-experience",
+    "href": "cv.html#selected-work-experience",
+    "title": "María Nanton - CV",
+    "section": "Selected work experience",
+    "text": "Selected work experience\n\nHealth Information and Statistics Office. Buenos Aires City Ministry of Health.\nHead of Data Science (2023 - in progress)\n\nManagement of 15+ data analyst and data scientists\nResponsible for overseeing and driving strategic decision-making at the Office level (team with 30+ members)\nDirect coordination of Data Analysis and Data Science projects\n\nData Analyst (2020 - 2023)\n\nAnalysis and processing of databases using R and SQL.\nDevelopment of complex algorithms and coordination of applied Machine Learning projects.\nDesign, development, and delivery of data-based digital products.\nRedesign of workflows at the for digital product development.\nDesign and implementation of data quality and integrity validation processes.\n\n\n\niMettrics\nData Analyst (2010 - 2020)\n\nReporting and Insights Analyst - Digital Performance Analytics.\nResponsible for creating dashboards, presenting reports to clients, and performing on-demand analysis.\nCollaboration in the formulation of measurement strategies and data analysis based on tactical and strategic objectives."
+  },
+  {
     "objectID": "cv.html#selected-education",
     "href": "cv.html#selected-education",
     "title": "María Nanton - CV",
     "section": "Selected education",
-    "text": "Selected education\nDegree (Date)\n\n\nSchool of\nUniversity of Buenos Aires"
+    "text": "Selected education\nM.S., Data Mining (in progress)\n\nSchool of Exact and Natural Sciences\nUniversity of Buenos Aires\n\nB.S., Social Communication (2019)\n\nSchool of Social Sciences\nUniversity of Buenos Aires"
   },
   {
     "objectID": "cv.html#selected-teaching-experience",
     "href": "cv.html#selected-teaching-experience",
     "title": "María Nanton - CV",
     "section": "Selected teaching experience",
-    "text": "Selected teaching experience\nCourse (Date) - Topics & University"
+    "text": "Selected teaching experience\nAdvanced Statistics Assistant Professor (2024 - present) - Italian Hospital University Institute, M.S. in Clinical Research\nInstructor (2021) - The Carpentries\nData Science Instructor (2019 - 2021) - Argentine School of New Technologies (EANT)\nLead Instructor (2019 - present) - R programming, data analysis and visualization courses"
   },
   {
     "objectID": "cv.html#selected-community-developments",
@@ -19,13 +26,6 @@
     "title": "María Nanton - CV",
     "section": "Selected community developments",
     "text": "Selected community developments\nMetaDocencia - Infrastructure Developer and Instructor (2023 - present)\nMetaDocencia is an organization committed to advancing Open Science practices across Latin America and the Caribbean. Its work focuses on capacity-building, adapting and creating educational resources in Spanish, and fostering a network of regional communities and stakeholders. Currently, it is part of the NASA TOPS initiative and serves as the contextualizer for NASA materials in Spanish.\nR-Ladies Buenos Aires - organizer/Instructor (2019 - present)\nR-Ladies is an international initiative dedicated to promoting diversity and inclusion within the R programming community. The Buenos Aires chapter organizes 3 to 6 events annually, featuring activities such as technical skill-building workshops, short presentations by members and guest speakers, as well as community-building and networking opportunities.\nLatinR - organizer committee (2021, 2023)\nLatin American Conference about the Use of R for Research + Development"
-  },
-  {
-    "objectID": "cv.html#selected-talks-and-presentations",
-    "href": "cv.html#selected-talks-and-presentations",
-    "title": "María Nanton - CV",
-    "section": "Selected talks and presentations",
-    "text": "Selected talks and presentations"
   },
   {
     "objectID": "cv.html#selected-awards-and-scholarships",
