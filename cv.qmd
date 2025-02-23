@@ -9,7 +9,7 @@ editor: visual
 
 ### Health Information and Statistics Office. Buenos Aires City Ministry of Health.
 
-**Head of Data Science (2023 - in progress)**
+**Head of Data Science (2023 - present)**
 
 -   Management of 15+ data analyst and data scientists
 -   Responsible for overseeing and driving strategic decision-making at the Office level (team with 30+ members)
