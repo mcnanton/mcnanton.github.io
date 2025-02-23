@@ -23,7 +23,7 @@ What I particularly highlight from this edition of the conference is the opportu
 
 I was also able to help on the [organizing committee](https://2023.latinr.org/sobre/equipo/), moderate a discussion panel on the use of Shiny in the public sector, and assisting in the delivery of a workshop.
 
-![Foto: https://www.flickr.com/photos/comunicacionfcea/](images/latinr2023.jpg){fig-align="center"}
+![Foto: [Comunicación FCEA](https://www.flickr.com/photos/comunicacionfcea/)](images/latinr2023.jpg){fig-align="center"}
 
 Yanina Bellini, one of LatinR's chairs, wrote a [great post](https://yabellini.netlify.app/blog/2023-11-05-latinr-2023/) on this edition of LatinR.
 
