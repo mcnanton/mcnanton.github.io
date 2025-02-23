@@ -19,11 +19,13 @@ type: post
 
 LatinR, the LatinAmerican Conference About the Use of R in R&D, held its 2023 edition in Montevideo, Uruguay. Although I had participated as an organizer or speaker in the 2021 and 2022 (virtual) editions of LatinR, this was my first year attending the event in person, since the last in-person edition of the conference was in 2019, in Chile.
 
-What I particularly highlight from this edition of the conference is the opportunity to meet and exchange ideas in person with **RLadies** from different parts of Latin America, as well as with many **public sector** workers from various municipal and national entities who regularly use R to solve problems. 
+What I particularly highlight from this edition of the conference is the opportunity to meet and exchange ideas in person with **RLadies** from different parts of Latin America, as well as with many **public sector** workers from various municipal and national entities who regularly use R to solve problems.
+
 I was also able to help on the [organizing committee](https://2023.latinr.org/sobre/equipo/), moderate a discussion panel on the use of Shiny in the public sector, and assisting in the delivery of a workshop.
 
-Yanina Bellini, one of LatinR's chairs, wrote a [great post](https://yabellini.netlify.app/blog/2023-11-05-latinr-2023/) on this edition of LatinR.
+![](images/latinr2023.jpg){fig-align="center"}
 
+Yanina Bellini, one of LatinR's chairs, wrote a [great post](https://yabellini.netlify.app/blog/2023-11-05-latinr-2023/) on this edition of LatinR.
 
 ## Advanced Tidymodels Workshop
 
