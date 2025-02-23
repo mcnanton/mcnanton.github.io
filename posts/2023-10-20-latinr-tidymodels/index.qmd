@@ -29,8 +29,10 @@ Yanina Bellini, one of LatinR's chairs, wrote a [great post](https://yabellini.n
 
 ![](images/tidymodels1.jpeg){fig-align="center" width="300"}
 
-I was already familiar with tidymodels having used it in several projects as well as in my Master's studies, and I had also taken this workshop in posit::conf() 2023, so I volunteered to assist **Max Kuhn** and **Hannah Frick** in their workshop "**Introduction to Machine Learning with Tidymodels**".
+I was already familiar with tidymodels having used it in several projects as well as in my Master's studies, and I had also taken this workshop in posit::conf() 2023, so I volunteered to assist **Max Kuhn** and **Hannah Frick** in their workshop "**Introduction to Machine Learning with Tidymodels**" along with [Jesica Formoso](https://jformoso.github.io/) and [Luis D. Verde Arregoitia](https://luisdva.github.io/).
 
 Helping in the workshop was a great experience: the attendees had many questions, some related to the tidymodels framework in general, and others regarding conceptual aspects of machine learning.
+
+Access the workshop's materials [here](https://workshops.tidymodels.org/)
 
 ![](images/tidymodels2.jpeg){fig-align="center" width="400"}
