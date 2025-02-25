@@ -27,7 +27,7 @@ I was also able to help on the [organizing committee](https://2023.latinr.org/so
 
 Yanina Bellini, one of LatinR's chairs, wrote a [great post](https://yabellini.netlify.app/blog/2023-11-05-latinr-2023/) on this edition of LatinR.
 
-## Advanced Tidymodels Workshop
+## ML with Tidymodels Workshop
 
 ![](images/tidymodels1.jpeg){fig-align="center" width="300"}
 
