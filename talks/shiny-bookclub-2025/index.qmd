@@ -1,0 +1,15 @@
+---
+authors: [María Nanton]
+date: "2025-03-11"
+title: Mastering Shiny Bookclub
+image: meetup-poster.jpg
+---
+
+Along with **R en Baires** we co-organized and launched a book club for **Mastering Shiny** by Hadley Wickham. The goal of this initiative was to explore a selection of chapters from the book alongside the local community through a series of virtual events open to Spanish speakers worldwide.
+
+In each session, one or more speakers present the key points of the assigned chapters and their solutions to the exercises. 
+
+For the first session, together with Jesica Formoso, we covered the first two chapters of the book: "Your First Shiny App" and "Basic UI".
+
+- Link to the [bookclub's repository](https://github.com/RLadies-BA/mastering-shiny)
+- Link to the [our presentation for the first meetup](https://mcnanton.github.io/RLadiesBA-Shiny_book_club-1/#/title-slide)
