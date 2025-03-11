@@ -12,6 +12,7 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/shiny-bookclub-2025/index.html",
       "/talks/rladies-na-pasa-nada/index.html",
       "/talks/rladies-r-en-red/index.html",
       "/talks/latinr-2024-recupero-gastos/index.html",
