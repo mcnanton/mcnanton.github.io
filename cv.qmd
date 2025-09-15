@@ -11,7 +11,7 @@ editor: visual
 
 **Head of Data Science (2023 - present)**
 
--   Management of 15+ data analyst and data scientists
+-   Management of 20+ data analyst and data scientists
 -   Responsible for overseeing and driving strategic decision-making at the Office level (team with 30+ members)
 -   Direct coordination of Data Analysis and Data Science projects
 
