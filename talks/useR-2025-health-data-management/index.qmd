@@ -1,0 +1,25 @@
+---
+authors: [María Nanton]
+date: "2025-08-01"
+title: Transforming Public Health Data Management (UseR 2025)
+image: useR-2025-health-data-management.jpg
+---
+
+## About our talk
+
+![](useR1.jpg){fig-align="center"}
+
+The Health Information and Statistics Office within the Ministry of Health of Buenos Aires, Argentina, faced some key and unexpected challenges in its first year as an organization. As a small, 10-person team formed in 2019 building slow-paced data products with self-imposed goals, such as dashboards, they were hit with difficult tasks to be performed under pressure such as managing information and statistics flows during a pandemic for a city with 3M inhabitants and serving hundreds of physicians and decision-makers of the public sector with almost real-time information.
+
+Over the years, the team has tripled in size and has played a key role in high-impact strategic data science projects. These include developing data science solutions for extracting information from free-text data, creating complex algorithms for processing data from the city's Electronic Health Records, and implementing large-scale cost recovery initiatives in the healthcare system by cross-referencing massive datasets and generating +35k rendered documents per week shared with key agencies in the city.
+
+![](useR2.jpg){fig-align="center"}
+
+To fulfill these objectives, our team has built a robust infrastructure and a wide range of digital products—all within the R ecosystem.
+
+![](useR3.jpg){fig-align="center"}
+
+The talk covers the strategies, tools, and lessons learned in building efficient and reproducible data workflows in the public sector in a context of very limited resources, and we explore how R has been fundamental in transitioning from individual analyses to scalable, automated workflows.
+
+-   Link to the [slides](https://mcnanton.github.io/useR_public_sector_health_data_management_2025/#/title-slide)
+-   Link to the [presentation's video](https://www.youtube.com/watch?v=82yMVDmtfos&t=4s&ab_channel=useR%21Conference)
