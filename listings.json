@@ -12,6 +12,7 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/useR-2025-health-data-management/index.html",
       "/talks/shiny-bookclub-2025/index.html",
       "/talks/rladies-na-pasa-nada/index.html",
       "/talks/rladies-r-en-red/index.html",
