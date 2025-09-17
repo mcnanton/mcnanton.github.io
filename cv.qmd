@@ -25,9 +25,9 @@ editor: visual
 
 ### iMettrics
 
-**Data Analyst (2010 - 2020)** 
+**Data Analyst (2010 - 2020)**
 
--   Reporting and Insights Analyst - Digital Performance Analytics. 
+-   Reporting and Insights Analyst - Digital Performance Analytics.
 -   Responsible for creating dashboards, presenting reports to clients, and performing on-demand analysis.
 -   Collaboration in the formulation of measurement strategies and data analysis based on tactical and strategic objectives.
 
@@ -49,7 +49,7 @@ editor: visual
 
 **Advanced Statistics Assistant Professor (2024 - present)** - Italian Hospital University Institute, M.S. in Clinical Research
 
-**Instructor (2021)** - The Carpentries
+**Instructor (certification in 2021)** - The Carpentries
 
 **Data Science Instructor (2019 - 2021)** - Argentine School of New Technologies (EANT)
 
@@ -57,7 +57,9 @@ editor: visual
 
 ## Selected community developments
 
-**MetaDocencia - Infrastructure Developer and Instructor (2023 - present)**
+**R-Ladies Global team (2025 - present)**
+
+**MetaDocencia - Infrastructure Developer and Instructor (2023 - Jan 2025)**
 
 MetaDocencia is an organization committed to advancing Open Science practices across Latin America and the Caribbean. Its work focuses on capacity-building, adapting and creating educational resources in Spanish, and fostering a network of regional communities and stakeholders. Currently, it is part of the NASA TOPS initiative and serves as the contextualizer for NASA materials in Spanish.
 
@@ -70,6 +72,10 @@ R-Ladies is an international initiative dedicated to promoting diversity and inc
 Latin American Conference about the Use of R for Research + Development
 
 ## Selected awards and scholarships
+
+**Epiverse-TRACE-LAC 2023**
+
+-   Outbreak Analysis and Public Health Modeling international course in Bogotá, Colombia. Event led by the Pontificia Universidad Javeriana within the the [Epiverse](https://data.org/initiatives/epiverse/)-TRACE-LAC project supported by Universidad de los Andes, the London School of Hygiene and Tropical Medicine, data.org, the International Development Research Centre (IDRC) of Canada, the Bogotá Health Secretariat, the National Institute of Health (INS), the Field Epidemiology Training Program (FETP), the Network of Field Epidemiology Programs in South America (REDSUR), Imperial College London, and the University of Sussex.
 
 **KHIPU 2023**
 
