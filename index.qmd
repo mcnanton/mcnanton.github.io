@@ -17,9 +17,9 @@ about:
       href: https://twitter.com/bynans1/
 ---
 
-Hi! I'm María, a **Data Scientist** from Buenos Aires, Argentina. I manage a team of 20+ data scientists and analysts at my city's Ministry of Health, and I'm also part of [MetaDocencia](https://www.metadocencia.org/en/authors/mcnanton/), where I work on Infrastructure and develop and teach lessons for researchers in Latin America on the topic of **Open Science**.
+Hi! I'm María, a **Data Scientist** from Buenos Aires, Argentina. I manage a team of 20+ data scientists and analysts at my city's Ministry of Health.
 
 Since 2019, I have been teaching and developing curricula for courses in statistics, programming, data science, and data visualization at the **University of Buenos Aires**, **National Agricultural Technology Institute**, **National Scientific and Technical Research Council** and the **University Institute of the Italian Hospital of Buenos Aires**.
 
-As an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) since 2019, I work to foster diversity and inclusion in the tech and data science communities.
+As an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) since 2019, and member R-Ladies Global Team of I work to foster diversity and inclusion in the tech and data science communities.
 
