@@ -20,7 +20,7 @@ editor: visual
 -   Analysis and processing of databases using R and SQL.
 -   Development of complex algorithms and coordination of applied Machine Learning projects.
 -   Design, development, and delivery of data-based digital products.
--   Redesign of workflows at the for digital product development.
+-   Redesign of digital product development workflows for the Office.
 -   Design and implementation of data quality and integrity validation processes.
 
 ### iMettrics
