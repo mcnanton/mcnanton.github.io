@@ -17,9 +17,8 @@ about:
       href: https://twitter.com/bynans1/
 ---
 
-Hi! I'm María, a **Data Scientist** from Buenos Aires, Argentina. I manage a team of 20+ data scientists and analysts at my city's Ministry of Health.
+Hi! I’m María, a Data Scientist based in Argentina. I work at the Ministry of Health of the City of Buenos Aires, where I coordinate data science projects focused on public health monitoring, analysis, and decision-making. I also work at The Global Health Network, developing open-source and AI-based tools to support global health researchn.
 
-Since 2019, I have been teaching and developing curricula for courses in statistics, programming, data science, and data visualization at the **University of Buenos Aires**, **National Agricultural Technology Institute**, **National Scientific and Technical Research Council** and the **University Institute of the Italian Hospital of Buenos Aires**.
+I have over five years of experience building end-to-end data science solutions in public health, including data pipelines, analytical workflows, and machine learning–enabled systems applied in real-world health system and policy contexts. My work emphasizes reproducibility, software quality, interoperability, and the practical deployment of data products in public sector and research environments.
 
-As an organizer of [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) since 2019, and member R-Ladies Global Team of I work to foster diversity and inclusion in the tech and data science communities.
-
+I am actively involved in open science and data communities. As an organizer of R-Ladies Buenos Aires since 2019 and a member of the R-Ladies Global Team, I work to promote diversity and inclusion in tech while advocating for open-source tools, collaborative development, and rigorous technical standards in data science.
