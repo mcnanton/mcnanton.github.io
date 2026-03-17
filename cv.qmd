@@ -87,6 +87,10 @@ Latin American Conference about the Use of R for Research + Development
 
 ## Selected awards and scholarships
 
+**SALA AI - Summit of AI in LatAm 2026**
+
+-   Selected to participate in this highly competitive event, recognized for academic excellence and contributions to diversity in AI research.
+
 **Epiverse-TRACE-LAC 2023**
 
 -   Outbreak Analysis and Public Health Modeling international course in Bogotá, Colombia. Event led by the Pontificia Universidad Javeriana within the the [Epiverse](https://data.org/initiatives/epiverse/)-TRACE-LAC project supported by Universidad de los Andes, the London School of Hygiene and Tropical Medicine, data.org, the International Development Research Centre (IDRC) of Canada, the Bogotá Health Secretariat, the National Institute of Health (INS), the Field Epidemiology Training Program (FETP), the Network of Field Epidemiology Programs in South America (REDSUR), Imperial College London, and the University of Sussex.
