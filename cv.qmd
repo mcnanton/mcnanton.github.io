@@ -7,9 +7,23 @@ editor: visual
 
 ## Selected work experience
 
+### The Global Health Network. University of Oxford.
+
+**AI Developer (Dec 2025 - present)**
+
+-   Develop AI-driven, open source-based tools to support global health research and collaboration, connecting researchers and professionals with modern, accessible technologies.
+-   Design and implement software solutions that bridge technical capabilities with real-world public health needs across international research communities.
+-   Actively contribute to global open science and programming communities of practice, promoting knowledge sharing, collaboration, and the adoption of open tools for data-driven initiatives.
+
 ### Health Information and Statistics Office. Buenos Aires City Ministry of Health.
 
-**Head of Data Science (2023 - present)**
+**AI & Data Science Projects Coordinator (2026 - present)**
+
+-   Coordinate and oversee high-impact Artificial Intelligence and Data Science projects end-to-end, from scope definition to deployment, aligned with senior management's strategic objectives.
+-   Lead cross-functional collaboration across internal data/AI teams, business areas, and external vendors/partners to ensure successful project delivery.
+-   Manage projects spanning Natural Language Processing (NLP), algorithmic decision-making systems, and data pipeline design and implementation.
+
+**Head of Data Science (2023 - 2025)**
 
 -   Management of 20+ data analyst and data scientists
 -   Responsible for overseeing and driving strategic decision-making at the Office level (team with 30+ members)
