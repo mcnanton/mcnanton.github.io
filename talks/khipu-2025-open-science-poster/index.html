@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-03-10">
 
-<title>Blog posts – María Nanton</title>
+<title>Considerations on Open Science from Researchers in the Global South. An Analysis Using NLP Tools (Khipu 2025) – María Nanton</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,28 +24,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,67 +71,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -142,7 +83,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">María Nanton</span>
     </a>
   </div>
@@ -153,19 +94,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> 
+    <a class="nav-link" href="../../talks.html"> 
 <span class="menu-text">Talks/workshops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -197,25 +138,37 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Q29uZmVyZW5jZQ==">Conference <span class="quarto-category-count">(4)</span></div><div class="category" data-category="TkxQ">NLP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3Blbi1zb3VyY2U=">Open-source <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UHJvZ3JhbW1pbmc=">Programming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHVibGljYXRpb25z">Publications <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHl0aG9u">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(4)</span></div><div class="category" data-category="VGVhY2hpbmc=">Teaching <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog posts</h1>
+<h1 class="title">Considerations on Open Science from Researchers in the Global South. An Analysis Using NLP Tools (Khipu 2025)</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>María Nanton </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 10, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -225,245 +178,18 @@ window.Quarto = {
 </header>
 
 
+<p>Together with Jesica Formoso, Brenda Gomez Muiños, and Patricia Loto, we presented a poster at Khipu 2025 on the perceptions of Spanish-speaking researchers and technicians regarding Open Science.</p>
+<p>The study analyzed open-ended responses from 285 participants in a 2024 Open Science training conducted by MetaDocencia, based on NASA’s Open Science 101 curriculum. Using text mining tools from the tidy ecosystem in R — word frequency, TF-IDF, sentiment analysis with the NRC lexicon, and topic modeling — we explored three questions: what barriers researchers perceive to adopting Open Science practices, what motivates them to engage with training, and how they expect Open Science to affect the relationship between science and the public.</p>
+<p>Results show strong motivation driven by a desire for transparency and knowledge exchange, alongside concrete concerns: intellectual property, privacy, fears of plagiarism, and institutional evaluation systems that still prioritize high-impact publications over open practices.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Poster Khipu 2025.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q29uZmVyZW5jZSUyQ09wZW4tc291cmNl" data-listing-date-sort="1773705600000" data-listing-file-modified-sort="1773939797066" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
-<div class="thumbnail"><a href="./posts/2026-03-17-sala-ai/2026-03-17-sala-2026.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2026-03-17-sala-ai/images/sala-ai-2026.jpeg" alt="Group picture of attendants of SALA AI 2026, about 60 people posing in the San Francisco de Quito University"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-03-17-sala-ai/2026-03-17-sala-2026.html" class="no-external">SALA 2026: AI in Latin America</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZQ=='); return false;">Conference</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T3Blbi1zb3VyY2U='); return false;">Open-source</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2026-03-17-sala-ai/2026-03-17-sala-2026.html" class="no-external">
-Last week, SALA — the Summit of AI in Latin America — wrapped up its 2026 edition, and I’m leaving thrilled to have been part of it.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-03-17-sala-ai/2026-03-17-sala-2026.html" class="no-external">
-<div class="listing-date">
-Mar 17, 2026
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="VGVhY2hpbmclMkNSJTJDUHl0aG9u" data-listing-date-sort="1772582400000" data-listing-file-modified-sort="1773939797065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
-<div class="thumbnail"><a href="./posts/2026-03-04-arecibo-training/2026-03-04-arecibo-training.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2026-03-04-arecibo-training/images/arecibo-banner.jpeg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-03-04-arecibo-training/2026-03-04-arecibo-training.html" class="no-external">Train the Trainer in Arecibo, Puerto Rico</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGVhY2hpbmc='); return false;">Teaching</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">Python</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2026-03-04-arecibo-training/2026-03-04-arecibo-training.html" class="no-external">
-In January, I had the chance to facilitate an in-person edition of Train the Trainer, a MetaDocencia course aimed at people who teach — or want to teach — programming and…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-03-04-arecibo-training/2026-03-04-arecibo-training.html" class="no-external">
-<div class="listing-date">
-Mar 4, 2026
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="UHVibGljYXRpb25zJTJDTkxQ" data-listing-date-sort="1736121600000" data-listing-file-modified-sort="1773939797065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<div class="thumbnail"><a href="./posts/2025-01-24-gender-biases-plos-one/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2025-01-24-gender-biases-plos-one/images/journal.pone.0317001.g003.PNG"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-01-24-gender-biases-plos-one/index.html" class="no-external">Gender biases and hate speech: : Promoters and targets in the Argentinean political context (PLoS ONE)</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljYXRpb25z'); return false;">Publications</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TkxQ'); return false;">NLP</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2025-01-24-gender-biases-plos-one/index.html" class="no-external">
-Our research explores how hate speech is disseminated and received by political figures, focusing on gender and political orientation. We used NLP and LLMs to analyze this…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-01-24-gender-biases-plos-one/index.html" class="no-external">
-<div class="listing-date">
-Jan 6, 2025
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Q29uZmVyZW5jZSUyQ1IlMkNPcGVuLXNvdXJjZQ==" data-listing-date-sort="1704499200000" data-listing-file-modified-sort="1773939797063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="510">
-<div class="thumbnail"><a href="./posts/2024-01-06-posit-conf-2023/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2024-01-06-posit-conf-2023/images/posit-conf.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-01-06-posit-conf-2023/index.html" class="no-external">Posit::Conf(2023)</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZQ=='); return false;">Conference</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T3Blbi1zb3VyY2U='); return false;">Open-source</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2024-01-06-posit-conf-2023/index.html" class="no-external">
-I had the amazing opportunity to participate in posit::conf() 2023 in Chicago, where I met many R contributors, developers, and educators in person and was able to attend…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2024-01-06-posit-conf-2023/index.html" class="no-external">
-<div class="listing-date">
-Jan 6, 2024
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="Q29uZmVyZW5jZSUyQ09wZW4tc291cmNlJTJDUg==" data-listing-date-sort="1697760000000" data-listing-file-modified-sort="1773939797056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
-<div class="thumbnail"><a href="./posts/2023-10-20-latinr-tidymodels/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2023-10-20-latinr-tidymodels/images/latinr2023.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2023-10-20-latinr-tidymodels/index.html" class="no-external">Helping Out and Learning: TAing in Tidymodels workshop at LatinR 2023</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZQ=='); return false;">Conference</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T3Blbi1zb3VyY2U='); return false;">Open-source</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2023-10-20-latinr-tidymodels/index.html" class="no-external">
-LatinR, the LatinAmerican Conference About the Use of R in R&amp;D, held its 2023 edition in Montevideo, Uruguay. Although I had participated as an organizer or speaker in the…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2023-10-20-latinr-tidymodels/index.html" class="no-external">
-<div class="listing-date">
-Oct 20, 2023
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="UHJvZ3JhbW1pbmclMkNPcGVuLXNvdXJjZSUyQ1I=" data-listing-date-sort="1691452800000" data-listing-file-modified-sort="1773939797049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
-<div class="thumbnail"><a href="./posts/2023-06-27-c-book-club/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2023-06-27-c-book-club/images/Gustedt-ModernC-HI.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2023-06-27-c-book-club/index.html" class="no-external">C Book Club for R Contributors</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvZ3JhbW1pbmc='); return false;">Programming</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T3Blbi1zb3VyY2U='); return false;">Open-source</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2023-06-27-c-book-club/index.html" class="no-external">
-From May to August 2023 as people attending R Project Sprint 2023 we were offered the chance to participate in a C book club with the goal of gaining a basic understanding…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2023-06-27-c-book-club/index.html" class="no-external">
-<div class="listing-date">
-Aug 8, 2023
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1691107200000" data-listing-file-modified-sort="1773939797053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="343">
-<div class="thumbnail"><a href="./posts/2023-08-14-khipu-2023/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts/2023-08-14-khipu-2023/Khipu-2023-2.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2023-08-14-khipu-2023/index.html" class="no-external">My experience at the Khipu 2023 conference</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZQ=='); return false;">Conference</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2023-08-14-khipu-2023/index.html" class="no-external">
-This year, at the Universidad de la República in Uruguay, Khipu, the Latin American conference on AI took place. Over three days in March, talks, workshops, and poster…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2023-08-14-khipu-2023/index.html" class="no-external">
-<div class="listing-date">
-Aug 4, 2023
-</div>
-<div class="listing-author">
-María Nanton
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

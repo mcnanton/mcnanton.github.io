@@ -42,39 +42,46 @@
     "text": "We developed and delivered an introductory workshop to Data Science for physicians and decision-makers as part of the Health Informatics Conferece organized by the Health Informatics Department of the Italian Hospital of Buenos Aires.\nThe goal of the workshop was to conduct a collaborative exercise within the framework of evidence-based decision-making, focusing on the dimensions and stages involved in the process of access, use, and interpretation of data.\n\nLink to our presentation"
   },
   {
-    "objectID": "talks/women-bioinformatics-2020/index.html",
-    "href": "talks/women-bioinformatics-2020/index.html",
-    "title": "Workshop - Introduction to Tidyverse (Women in Bioinformatics and Data Science)",
+    "objectID": "talks/gasp-2025-pregnancy-algorithm-poster/index.html",
+    "href": "talks/gasp-2025-pregnancy-algorithm-poster/index.html",
+    "title": "Algorithm development to estimate pregnancy data from Electronic Health Records. A Use Case from Argentina (GASP 2025)",
     "section": "",
-    "text": "In this tutorial, along with Jimena Saucedo we gave an introduction to the use of R and of Tidyverse for data manipulation with dplyr and visualization with ggplot2.\nThis tutorial was part of the 1st Congress of Women in Bioinformatics and Data Science Latin America.\nLink to our presentation\n\nView the workshop’s recording"
+    "text": "Together with Carolina Mengoni Goñalons and Juliana Reyes Szemere, we presented at the Government Advances in Statistical Programming (GASP) 2025 conference on a natural language processing algorithm developed to detect and characterize pregnancies from Electronic Health Records in the Buenos Aires City public health system.\nPregnancy status is not explicitly recorded in any dedicated section of SIGEHOS, the Hospital Information Management System in use since 2016. That means key information — pregnancy start and end dates, estimated delivery date, gestational age at first visit — has to be inferred from structured and unstructured fields scattered across the EHR.\n\n\n\n\n\nUsing open-source tools in R, we built an algorithm that applies data mining techniques, rule-based processing, and regular expressions to extract and classify that information at scale.\n\n\n\n\n\nThe work is aimed at researchers and professionals dealing with large-scale population data where the information of interest is non-structured, dispersed, and difficult to locate.\n\nLink to our slides"
   },
   {
-    "objectID": "talks/rladies-como-empezaR/index.html",
-    "href": "talks/rladies-como-empezaR/index.html",
-    "title": "From Social Sciences to Data Science",
+    "objectID": "talks/alta-ca-2024/index.html",
+    "href": "talks/alta-ca-2024/index.html",
+    "title": "ALTa Ciencia Abierta (Latin America Transforms to Open Science)",
     "section": "",
-    "text": "From RLadies Buenos Aires along with the Social Innovation Hub (NIS) we organized this talk with four graduates from Social Sciences-related fields who work in data science.\nThe speakers were:\n\nAndrea Gómez Vargas (@me_andre) - Sociologist\nPedro Orden (@pedroorden) - Sociologist, researcher, and data scientist\nRamiro Fernández (@ramaol) - Sociologist and data scientist\nMaría Cristina Nanton (@bynans1) - Social communicator and data analyst\n\nEach of us shared our firsthand experience on how we started in these roles, the obstacles we faced, the challenges we overcame, and the tools we found valuable both for our own development and for other graduates looking to enter the field of data science.\n\nLink to the meetup’s recording\nLink to my presentation](https://docs.google.com/presentation/d/1Bo-gmIdnNfRN28_iUDZwvtf0CLP-FdDhJnuhhUNHrw8/edit?usp=sharing)"
+    "text": "The ALTa Ciencia Abierta course is designed to provide a comprehensive introduction to open science practices, focusing on key topics like reproducible research, open data, and collaborative workflows, for Spanish-speaking communities. It aims to equip researchers with the tools and knowledge to make their work more transparent, accessible, and reproducible.\nDuring 2024, I had the pleasure of teaching the module on open tools in the three editions of the course, alongside Mariela Rajngewerc. In this module, we explored tools for working openly with datasets, code and papers, ensuring that research processes remain open, reproducible, and easy for others to follow.\nThis course is part of a broader initiative supported by NASA - NASA TOPS - which promotes open science and collaboration across the global research community. MetaDocencia’s participation in this initiative is a significant step towards fostering a more inclusive and transparent scientific community, ensuring that research is accessible and reproducible for everyone, regardless of location or resources.\n\nLink to the website\nLink to the Open Code module"
   },
   {
-    "objectID": "talks/rladies-datos-textuales/index.html",
-    "href": "talks/rladies-datos-textuales/index.html",
-    "title": "Workshop - Visualizing Text Data",
+    "objectID": "talks/latinr-2025-quarto-gha-workshop/index.html",
+    "href": "talks/latinr-2025-quarto-gha-workshop/index.html",
+    "title": "Workshop - Automating Report Publishing with Quarto and GitHub Actions (LatinR 2025)",
     "section": "",
-    "text": "Over 60 people joined R-Ladies Buenos Aires’ workshop where I taught how to visualize text data.\nIn the workshop, we went over common steps in text data analysis and created visualizations using the ggplot2 and wordcloud2 libraries using a corpus of poems by the Chilean poet Gabriela Mistral.\nWe planned the workshop as a part of “30 Days of Graphics” a virtual event promoted by @R4DS_es, held on Twitter to commemorate the birth of Florence Nightingale, a pioneer in data visualization.\n\nWatch the meetup’s recording\nAccess the workshop’s repository"
+    "text": "Together with Jesica Formoso, we ran a workshop at LatinR 2025 on building automated report publishing pipelines with Quarto and GitHub Actions.\n\n\n\n\n\nThe workshop walked participants through setting up a complete workflow from scratch: managing dependencies with renv, writing a GitHub Actions YAML file, scheduling periodic runs with cron expressions, and handling credentials securely with GitHub Secrets.\n\n\n\n\n\nBy the end of the session, everyone had a functioning pipeline that pulls data from a form, renders a Quarto site, and publishes it automatically to GitHub Pages.\n\n📊 Slides: LINK\n💻 Practice repository: LINK"
   },
   {
-    "objectID": "talks/latinr-2023-translaton/index.html",
-    "href": "talks/latinr-2023-translaton/index.html",
-    "title": "Become a R Contributor. Adding translations to base R (LatinR 2023)",
+    "objectID": "talks/open-science-universidad-andes/index.html",
+    "href": "talks/open-science-universidad-andes/index.html",
+    "title": "Open Science 101 at University of the Andes",
     "section": "",
-    "text": "In our talk “Become an R Contributor: Contributing translations to R base” with Paola Corrales we presented the process of adding translations to base R via weblate.\n\n\n\n\n\nWe introduced attendees to how the R Contributing working group works and guided the participants on how to make their first R translation contribution to the language.\nThe next day of the conference, we led a group of spanish and portuguese speakers in making their first translations.\n\n\n\n\n\n\nLink to our presentation"
+    "text": "Sabrina López, José Luis Villca Villegas, and I shared MetaDocencia’s work virtually at the University of Los Andes in Colombia. This was the first of a two-part virtual series on Open Science and NASA’s Transform to Open Science program in collaboration with the Jet Propulsion Laboratory.\n\nWe shared our experience contextualizing the materials for our virtual cohorts and walked through the syllabus of our ALTa Ciencia Abierta training. The attendees were very interested, and we received many questions about how to join future editions of the training.\n\nLink to our presentation"
   },
   {
-    "objectID": "talks/latinr-2024-recupero-gastos/index.html",
-    "href": "talks/latinr-2024-recupero-gastos/index.html",
-    "title": "Using R for Automating Administrative Procedures (LatinR 2024)",
+    "objectID": "talks/shiny-bookclub-2025/index.html",
+    "href": "talks/shiny-bookclub-2025/index.html",
+    "title": "Mastering Shiny Bookclub",
     "section": "",
-    "text": "For LatinR 2024, together with Ariana Bardauil and Manuel Rodríguez Tablado, we presented “Experiences in Using R for Automating Administrative Procedures: Cost Recovery in the Public Health System of the City of Buenos Aires.”\nIn our talk, we shared our experience as part of the Information Management and Health Statistics Office (GOGIES) of the Ministry of Health of the City of Buenos Aires, where we designed and implemented a project to automate administrative records for expenses recovery in the public health system.\nThe recovery of expenses in public health in the City of Buenos Aires aims to recover the costs of treating patients with health services coverage who receive medical attention in the public subsector. GOGIES has automated the generation of the necessary documentation for this process through the use of R and open software, resulting in an immediate impact on saving working hours for public workers and leading to an effective recovery of expenses in the City.\n\nLink to our presentation\nRead our article here"
+    "text": "Along with R en Baires we co-organized and launched a book club for Mastering Shiny by Hadley Wickham. The goal of this initiative was to explore a selection of chapters from the book alongside the local community through a series of virtual events open to Spanish speakers worldwide.\nIn each session, one or more speakers present the key points of the assigned chapters and their solutions to the exercises.\nFor the first session, together with Jesica Formoso, we covered the first two chapters of the book: “Your First Shiny App” and “Basic UI”.\n\nLink to the bookclub’s repository\nLink to the our presentation for the first meetup"
+  },
+  {
+    "objectID": "talks/khipu-2025-open-science-poster/index.html",
+    "href": "talks/khipu-2025-open-science-poster/index.html",
+    "title": "Considerations on Open Science from Researchers in the Global South. An Analysis Using NLP Tools (Khipu 2025)",
+    "section": "",
+    "text": "Together with Jesica Formoso, Brenda Gomez Muiños, and Patricia Loto, we presented a poster at Khipu 2025 on the perceptions of Spanish-speaking researchers and technicians regarding Open Science.\nThe study analyzed open-ended responses from 285 participants in a 2024 Open Science training conducted by MetaDocencia, based on NASA’s Open Science 101 curriculum. Using text mining tools from the tidy ecosystem in R — word frequency, TF-IDF, sentiment analysis with the NRC lexicon, and topic modeling — we explored three questions: what barriers researchers perceive to adopting Open Science practices, what motivates them to engage with training, and how they expect Open Science to affect the relationship between science and the public.\nResults show strong motivation driven by a desire for transparency and knowledge exchange, alongside concrete concerns: intellectual property, privacy, fears of plagiarism, and institutional evaluation systems that still prioritize high-impact publications over open practices."
   },
   {
     "objectID": "posts/2024-01-06-posit-conf-2023/index.html",
@@ -242,35 +249,42 @@
     "href": "talks.html",
     "title": "Talks, Workshops, and Courses",
     "section": "",
-    "text": "Development of a De-identification Model for Electronic Health Records in Buenos Aires City Healthcare (SALA 2026)\n\n\n\n\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Automating Report Publishing with Quarto and GitHub Actions (LatinR 2025)\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransforming Public Health Data Management (UseR 2025)\n\n\n\n\n\n\n\n\n\nAug 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering Shiny Bookclub\n\n\n\n\n\n\n\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - NA worries! Learn to validate data with R\n\n\n\n\n\n\n\n\n\nFeb 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nR in a Network (R en Red)\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing R for Automating Administrative Procedures (LatinR 2024)\n\n\n\n\n\n\n\n\n\nNov 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science 101 at University of the Andes\n\n\n\n\n\n\n\n\n\nNov 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nALTa Ciencia Abierta (Latin America Transforms to Open Science)\n\n\n\n\n\n\n\n\n\nJun 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPanel - Challenges and Strategies in Creating Healthcare Datasets for AI (JIS Summit 2023)\n\n\n\n\n\n\n\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nBecome a R Contributor. Adding translations to base R (LatinR 2023)\n\n\n\n\n\n\n\n\n\nOct 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science with R for Public Health Impact. A Tidyverse Experience in Pregnancy Detection (LatinR 2022)\n\n\n\n\n\n\n\n\n\nNov 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeographic Data for Public Health Decision-Making for COVID-19 Pandemic (FOSS4G 2021)\n\n\n\n\n\n\n\n\n\nOct 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Social Sciences to Data Science\n\n\n\n\n\n\n\n\n\nSep 22, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Data-Informed Decision Making. The Role of Data Science in Health (JIS 2020)\n\n\n\n\n\n\n\n\n\nNov 4, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to Tidyverse (Women in Bioinformatics and Data Science)\n\n\n\n\n\n\n\n\n\nSep 24, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Visualizing Text Data\n\n\n\n\n\n\n\n\n\nJun 2, 2020\n\n\n\n\n\n\nNo matching items"
+    "text": "Development of a De-identification Model for Electronic Health Records in Buenos Aires City Healthcare (SALA 2026)\n\n\n\n\n\n\n\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Automating Report Publishing with Quarto and GitHub Actions (LatinR 2025)\n\n\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransforming Public Health Data Management (UseR 2025)\n\n\n\n\n\n\n\n\n\nAug 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm development to estimate pregnancy data from Electronic Health Records. A Use Case from Argentina (GASP 2025)\n\n\n\n\n\n\n\n\n\nJun 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMastering Shiny Bookclub\n\n\n\n\n\n\n\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nConsiderations on Open Science from Researchers in the Global South. An Analysis Using NLP Tools (Khipu 2025)\n\n\n\n\n\n\n\n\n\nMar 10, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - NA worries! Learn to validate data with R\n\n\n\n\n\n\n\n\n\nFeb 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nR in a Network (R en Red)\n\n\n\n\n\n\n\n\n\nDec 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing R for Automating Administrative Procedures (LatinR 2024)\n\n\n\n\n\n\n\n\n\nNov 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Science 101 at University of the Andes\n\n\n\n\n\n\n\n\n\nNov 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nALTa Ciencia Abierta (Latin America Transforms to Open Science)\n\n\n\n\n\n\n\n\n\nJun 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPanel - Challenges and Strategies in Creating Healthcare Datasets for AI (JIS Summit 2023)\n\n\n\n\n\n\n\n\n\nNov 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nBecome a R Contributor. Adding translations to base R (LatinR 2023)\n\n\n\n\n\n\n\n\n\nOct 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science with R for Public Health Impact. A Tidyverse Experience in Pregnancy Detection (LatinR 2022)\n\n\n\n\n\n\n\n\n\nNov 10, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeographic Data for Public Health Decision-Making for COVID-19 Pandemic (FOSS4G 2021)\n\n\n\n\n\n\n\n\n\nOct 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Social Sciences to Data Science\n\n\n\n\n\n\n\n\n\nSep 22, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Data-Informed Decision Making. The Role of Data Science in Health (JIS 2020)\n\n\n\n\n\n\n\n\n\nNov 4, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Introduction to Tidyverse (Women in Bioinformatics and Data Science)\n\n\n\n\n\n\n\n\n\nSep 24, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshop - Visualizing Text Data\n\n\n\n\n\n\n\n\n\nJun 2, 2020\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks/shiny-bookclub-2025/index.html",
-    "href": "talks/shiny-bookclub-2025/index.html",
-    "title": "Mastering Shiny Bookclub",
+    "objectID": "talks/latinr-2024-recupero-gastos/index.html",
+    "href": "talks/latinr-2024-recupero-gastos/index.html",
+    "title": "Using R for Automating Administrative Procedures (LatinR 2024)",
     "section": "",
-    "text": "Along with R en Baires we co-organized and launched a book club for Mastering Shiny by Hadley Wickham. The goal of this initiative was to explore a selection of chapters from the book alongside the local community through a series of virtual events open to Spanish speakers worldwide.\nIn each session, one or more speakers present the key points of the assigned chapters and their solutions to the exercises.\nFor the first session, together with Jesica Formoso, we covered the first two chapters of the book: “Your First Shiny App” and “Basic UI”.\n\nLink to the bookclub’s repository\nLink to the our presentation for the first meetup"
+    "text": "For LatinR 2024, together with Ariana Bardauil and Manuel Rodríguez Tablado, we presented “Experiences in Using R for Automating Administrative Procedures: Cost Recovery in the Public Health System of the City of Buenos Aires.”\nIn our talk, we shared our experience as part of the Information Management and Health Statistics Office (GOGIES) of the Ministry of Health of the City of Buenos Aires, where we designed and implemented a project to automate administrative records for expenses recovery in the public health system.\nThe recovery of expenses in public health in the City of Buenos Aires aims to recover the costs of treating patients with health services coverage who receive medical attention in the public subsector. GOGIES has automated the generation of the necessary documentation for this process through the use of R and open software, resulting in an immediate impact on saving working hours for public workers and leading to an effective recovery of expenses in the City.\n\nLink to our presentation\nRead our article here"
   },
   {
-    "objectID": "talks/open-science-universidad-andes/index.html",
-    "href": "talks/open-science-universidad-andes/index.html",
-    "title": "Open Science 101 at University of the Andes",
+    "objectID": "talks/latinr-2023-translaton/index.html",
+    "href": "talks/latinr-2023-translaton/index.html",
+    "title": "Become a R Contributor. Adding translations to base R (LatinR 2023)",
     "section": "",
-    "text": "Sabrina López, José Luis Villca Villegas, and I shared MetaDocencia’s work virtually at the University of Los Andes in Colombia. This was the first of a two-part virtual series on Open Science and NASA’s Transform to Open Science program in collaboration with the Jet Propulsion Laboratory.\n\nWe shared our experience contextualizing the materials for our virtual cohorts and walked through the syllabus of our ALTa Ciencia Abierta training. The attendees were very interested, and we received many questions about how to join future editions of the training.\n\nLink to our presentation"
+    "text": "In our talk “Become an R Contributor: Contributing translations to R base” with Paola Corrales we presented the process of adding translations to base R via weblate.\n\n\n\n\n\nWe introduced attendees to how the R Contributing working group works and guided the participants on how to make their first R translation contribution to the language.\nThe next day of the conference, we led a group of spanish and portuguese speakers in making their first translations.\n\n\n\n\n\n\nLink to our presentation"
   },
   {
-    "objectID": "talks/latinr-2025-quarto-gha-workshop/index.html",
-    "href": "talks/latinr-2025-quarto-gha-workshop/index.html",
-    "title": "Workshop - Automating Report Publishing with Quarto and GitHub Actions (LatinR 2025)",
+    "objectID": "talks/rladies-datos-textuales/index.html",
+    "href": "talks/rladies-datos-textuales/index.html",
+    "title": "Workshop - Visualizing Text Data",
     "section": "",
-    "text": "Together with Jesica Formoso, we ran a workshop at LatinR 2025 on building automated report publishing pipelines with Quarto and GitHub Actions.\n\n\n\n\n\nThe workshop walked participants through setting up a complete workflow from scratch: managing dependencies with renv, writing a GitHub Actions YAML file, scheduling periodic runs with cron expressions, and handling credentials securely with GitHub Secrets.\n\n\n\n\n\nBy the end of the session, everyone had a functioning pipeline that pulls data from a form, renders a Quarto site, and publishes it automatically to GitHub Pages.\n\n📊 Slides: LINK\n💻 Practice repository: LINK"
+    "text": "Over 60 people joined R-Ladies Buenos Aires’ workshop where I taught how to visualize text data.\nIn the workshop, we went over common steps in text data analysis and created visualizations using the ggplot2 and wordcloud2 libraries using a corpus of poems by the Chilean poet Gabriela Mistral.\nWe planned the workshop as a part of “30 Days of Graphics” a virtual event promoted by @R4DS_es, held on Twitter to commemorate the birth of Florence Nightingale, a pioneer in data visualization.\n\nWatch the meetup’s recording\nAccess the workshop’s repository"
   },
   {
-    "objectID": "talks/alta-ca-2024/index.html",
-    "href": "talks/alta-ca-2024/index.html",
-    "title": "ALTa Ciencia Abierta (Latin America Transforms to Open Science)",
+    "objectID": "talks/rladies-como-empezaR/index.html",
+    "href": "talks/rladies-como-empezaR/index.html",
+    "title": "From Social Sciences to Data Science",
     "section": "",
-    "text": "The ALTa Ciencia Abierta course is designed to provide a comprehensive introduction to open science practices, focusing on key topics like reproducible research, open data, and collaborative workflows, for Spanish-speaking communities. It aims to equip researchers with the tools and knowledge to make their work more transparent, accessible, and reproducible.\nDuring 2024, I had the pleasure of teaching the module on open tools in the three editions of the course, alongside Mariela Rajngewerc. In this module, we explored tools for working openly with datasets, code and papers, ensuring that research processes remain open, reproducible, and easy for others to follow.\nThis course is part of a broader initiative supported by NASA - NASA TOPS - which promotes open science and collaboration across the global research community. MetaDocencia’s participation in this initiative is a significant step towards fostering a more inclusive and transparent scientific community, ensuring that research is accessible and reproducible for everyone, regardless of location or resources.\n\nLink to the website\nLink to the Open Code module"
+    "text": "From RLadies Buenos Aires along with the Social Innovation Hub (NIS) we organized this talk with four graduates from Social Sciences-related fields who work in data science.\nThe speakers were:\n\nAndrea Gómez Vargas (@me_andre) - Sociologist\nPedro Orden (@pedroorden) - Sociologist, researcher, and data scientist\nRamiro Fernández (@ramaol) - Sociologist and data scientist\nMaría Cristina Nanton (@bynans1) - Social communicator and data analyst\n\nEach of us shared our firsthand experience on how we started in these roles, the obstacles we faced, the challenges we overcame, and the tools we found valuable both for our own development and for other graduates looking to enter the field of data science.\n\nLink to the meetup’s recording\nLink to my presentation](https://docs.google.com/presentation/d/1Bo-gmIdnNfRN28_iUDZwvtf0CLP-FdDhJnuhhUNHrw8/edit?usp=sharing)"
+  },
+  {
+    "objectID": "talks/women-bioinformatics-2020/index.html",
+    "href": "talks/women-bioinformatics-2020/index.html",
+    "title": "Workshop - Introduction to Tidyverse (Women in Bioinformatics and Data Science)",
+    "section": "",
+    "text": "In this tutorial, along with Jimena Saucedo we gave an introduction to the use of R and of Tidyverse for data manipulation with dplyr and visualization with ggplot2.\nThis tutorial was part of the 1st Congress of Women in Bioinformatics and Data Science Latin America.\nLink to our presentation\n\nView the workshop’s recording"
   },
   {
     "objectID": "talks/latinr-2022-deteccion-embarazos/index.html",
