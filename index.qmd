@@ -12,12 +12,9 @@ about:
       href: https://www.linkedin.com/in/mar%C3%ADa-cristina-n-920170126/
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-0426-2879
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/bynans1/
 ---
 
-Hi! I’m María, a Data Scientist based in Argentina. I work at the Ministry of Health of the City of Buenos Aires, coordinating data science projects for public health monitoring and decision-making. I also work at The Global Health Network, where I develop open-source and AI-based tools to support global health research.
+Hi! I’m María, a Data Scientist based in Argentina. I work at the **Ministry of Health** of the City of Buenos Aires, coordinating data science projects for public health monitoring and decision-making. I also work at **The Global Health Network**, where I develop open-source and AI-based tools to support global health research.
 
 I have over five years of experience building end-to-end data science solutions in public health, including data pipelines, analytical workflows, and machine learning–enabled systems. My work emphasizes reproducibility, software quality, interoperability, and the practical deployment of data products in public sector and research settings.
 
