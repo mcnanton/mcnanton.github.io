@@ -1,0 +1,14 @@
+---
+authors: [María Nanton]
+date: "2025-03-10"
+title: Considerations on Open Science from Researchers in the Global South. An Analysis Using NLP Tools (Khipu 2025)
+image: khipu2025.png
+---
+
+Together with Jesica Formoso, Brenda Gomez Muiños, and Patricia Loto, we presented a poster at Khipu 2025 on the perceptions of Spanish-speaking researchers and technicians regarding Open Science.
+
+The study analyzed open-ended responses from 285 participants in a 2024 Open Science training conducted by MetaDocencia, based on NASA's Open Science 101 curriculum. Using text mining tools from the tidy ecosystem in R — word frequency, TF-IDF, sentiment analysis with the NRC lexicon, and topic modeling — we explored three questions: what barriers researchers perceive to adopting Open Science practices, what motivates them to engage with training, and how they expect Open Science to affect the relationship between science and the public.
+
+Results show strong motivation driven by a desire for transparency and knowledge exchange, alongside concrete concerns: intellectual property, privacy, fears of plagiarism, and institutional evaluation systems that still prioritize high-impact publications over open practices.
+
+![](images/Poster%20Khipu%202025.png){fig-align="center"}
