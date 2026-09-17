@@ -14,6 +14,8 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/RSLA-2026_research_infrastructure/index.html",
+      "/talks/UCA-2026-ai_vibe_coding/index.html",
       "/talks/sala-ai-2026-anonymization/index.html",
       "/talks/latinr-2025-quarto-gha-workshop/index.html",
       "/talks/useR-2025-health-data-management/index.html",

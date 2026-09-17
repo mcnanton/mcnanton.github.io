@@ -1,123 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mcnanton.github.io/posts.html</loc>
-    <lastmod>2026-03-19T17:58:44.093Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/rladies-na-pasa-nada/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.172Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/jis-2024-datasets-ia/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.143Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/useR-2025-health-data-management/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.180Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/jis-2020-workshop/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.142Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/gasp-2025-pregnancy-algorithm-poster/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.133Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/alta-ca-2024/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.124Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/latinr-2025-quarto-gha-workshop/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.165Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/open-science-universidad-andes/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/shiny-bookclub-2025/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.180Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/khipu-2025-open-science-poster/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.147Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/posts/2024-01-06-posit-conf-2023/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/posts/2026-03-04-arecibo-training/2026-03-04-arecibo-training.html</loc>
-    <lastmod>2026-03-19T17:58:44.110Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/posts/2023-06-27-c-book-club/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.094Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/posts/2023-08-14-khipu-2023/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.093Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/posts/2025-01-24-gender-biases-plos-one/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.109Z</lastmod>
+    <loc>https://mcnanton.github.io/posts/2026-03-17-sala-ai/2026-03-17-sala-2026.html</loc>
+    <lastmod>2026-09-17T19:12:56.552Z</lastmod>
   </url>
   <url>
     <loc>https://mcnanton.github.io/posts/2023-10-20-latinr-tidymodels/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.101Z</lastmod>
+    <lastmod>2026-09-17T19:12:56.544Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnanton.github.io/posts/2026-03-17-sala-ai/2026-03-17-sala-2026.html</loc>
-    <lastmod>2026-03-19T17:58:44.112Z</lastmod>
+    <loc>https://mcnanton.github.io/posts/2026-03-04-arecibo-training/2026-03-04-arecibo-training.html</loc>
+    <lastmod>2026-09-17T19:12:56.550Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnanton.github.io/talks.html</loc>
-    <lastmod>2026-03-19T17:58:44.116Z</lastmod>
+    <loc>https://mcnanton.github.io/posts/2023-06-27-c-book-club/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.538Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnanton.github.io/talks/latinr-2024-recupero-gastos/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.162Z</lastmod>
+    <loc>https://mcnanton.github.io/talks/gasp-2025-pregnancy-algorithm-poster/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.577Z</lastmod>
   </url>
   <url>
     <loc>https://mcnanton.github.io/talks/latinr-2023-translaton/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/rladies-datos-textuales/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.170Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mcnanton.github.io/talks/rladies-como-empezaR/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.169Z</lastmod>
+    <lastmod>2026-09-17T19:12:56.603Z</lastmod>
   </url>
   <url>
     <loc>https://mcnanton.github.io/talks/women-bioinformatics-2020/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.183Z</lastmod>
+    <lastmod>2026-09-17T19:12:56.624Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnanton.github.io/talks/latinr-2022-deteccion-embarazos/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.156Z</lastmod>
+    <loc>https://mcnanton.github.io/talks/rladies-como-empezaR/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.611Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnanton.github.io/talks/rladies-r-en-red/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.173Z</lastmod>
+    <loc>https://mcnanton.github.io/talks/rladies-datos-textuales/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.612Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnanton.github.io/talks/foss4g-covid-2021/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.125Z</lastmod>
+    <loc>https://mcnanton.github.io/talks/alta-ca-2024/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.568Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/jis-2024-datasets-ia/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/UCA-2026-ai_vibe_coding/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/open-science-universidad-andes/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/RSLA-2026_research_infrastructure/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.556Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/latinr-2024-recupero-gastos/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.604Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/posts.html</loc>
+    <lastmod>2026-09-17T19:12:56.536Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.536Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks.html</loc>
+    <lastmod>2026-09-17T19:12:56.556Z</lastmod>
   </url>
   <url>
     <loc>https://mcnanton.github.io/talks/sala-ai-2026-anonymization/index.html</loc>
-    <lastmod>2026-03-19T17:58:44.179Z</lastmod>
+    <lastmod>2026-09-17T19:12:56.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/latinr-2025-quarto-gha-workshop/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.607Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/khipu-2025-open-science-poster/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/useR-2025-health-data-management/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.621Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/shiny-bookclub-2025/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.621Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/rladies-r-en-red/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/jis-2020-workshop/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/foss4g-covid-2021/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/rladies-na-pasa-nada/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.613Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/talks/latinr-2022-deteccion-embarazos/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.599Z</lastmod>
   </url>
   <url>
     <loc>https://mcnanton.github.io/cv.html</loc>
-    <lastmod>2026-03-19T17:58:44.072Z</lastmod>
+    <lastmod>2026-09-17T19:12:56.517Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/posts/2024-01-06-posit-conf-2023/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/posts/2023-08-14-khipu-2023/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.542Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnanton.github.io/posts/2025-01-24-gender-biases-plos-one/index.html</loc>
+    <lastmod>2026-09-17T19:12:56.550Z</lastmod>
   </url>
 </urlset>
